@@ -5,3 +5,5 @@ Day 1.
 Day 2.
 **Today's progress** : Finished the HTML&Html5 introduction and started the CSS(Cascading style sheets).
 
+Day 3.
+**Today's progress**: Learning about CSS's basics.
