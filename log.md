@@ -13,3 +13,6 @@ Day 4.
 
 Day 5.
 **Today's progress**: More CSS and HTML5.
+
+Day 6.
+**Today's progress**: Finished the basic CSS introductory at https://learn.freecodecamp.org
