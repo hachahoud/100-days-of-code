@@ -16,3 +16,7 @@ Day 5.
 
 Day 6.
 **Today's progress**: Finished the basic CSS introductory at https://learn.freecodecamp.org
+
+Day 7.
+**Today's progress**: Got back to learning Django in the "crash course" book by Eric Matthes, trying to catch up where I left it weeks ago.
+
