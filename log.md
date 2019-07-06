@@ -20,3 +20,6 @@ Day 6.
 Day 7.
 **Today's progress**: Got back to learning Django in the "crash course" book by Eric Matthes, trying to catch up where I left it weeks ago.
 
+Day 8.
+**Today's progress**: I learned about the forms in Django, the model the view function and all related stuff.
+
