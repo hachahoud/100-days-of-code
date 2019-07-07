@@ -23,3 +23,9 @@ Day 7.
 Day 8.
 **Today's progress**: I learned about the forms in Django, the model the view function and all related stuff.
 
+Day 9.
+I learned making a registration&authorization system, and I spent a fine time learning the differences between the Django version used in the book and the newest that I use.
+
+Day 10.
+I learned how to restrict access to certain pages and connecting data to the users.
+
