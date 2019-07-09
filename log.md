@@ -29,3 +29,6 @@ I learned making a registration&authorization system, and I spent a fine time le
 Day 10.
 I learned how to restrict access to certain pages and connecting data to the users.
 
+Day 11.
+**Today's progress**: I learned how to style my pages with bootstrap through the app django-bootstrap.
+
