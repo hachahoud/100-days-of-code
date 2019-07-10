@@ -32,3 +32,6 @@ I learned how to restrict access to certain pages and connecting data to the use
 Day 11.
 **Today's progress**: I learned how to style my pages with bootstrap through the app django-bootstrap.
 
+Day 12.
+**Today's progress**: Still continuing the crash course, today I finished the styling of all the pages in the little webapp project using bootstrap.
+
