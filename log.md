@@ -35,3 +35,5 @@ Day 11.
 Day 12.
 **Today's progress**: Still continuing the crash course, today I finished the styling of all the pages in the little webapp project using bootstrap.
 
+Day 13.
+**Today's progress**: After finishing building and styling the app, I had today to learn about how to deploy into a live server, so I spent all the day reading online documentations.
