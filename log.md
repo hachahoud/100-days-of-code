@@ -37,3 +37,7 @@ Day 12.
 
 Day 13.
 **Today's progress**: After finishing building and styling the app, I had today to learn about how to deploy into a live server, so I spent all the day reading online documentations.
+
+Day 14.
+**Today's progress**: I tried to find out more about deployment, eventually decided to upload to pythonanywhere.com but it didn't work out, there was some errors, I'll try tomorrow again.
+I also started to use #git and I uploaded the web-app to github; https://github.com/hachahoud/learning-log 
