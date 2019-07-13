@@ -41,3 +41,9 @@ Day 13.
 Day 14.
 **Today's progress**: I tried to find out more about deployment, eventually decided to upload to pythonanywhere.com but it didn't work out, there was some errors, I'll try tomorrow again.
 I also started to use #git and I uploaded the web-app to github; https://github.com/hachahoud/learning-log 
+
+Day 15.
+I started a little project today, it will be a booking web app. I'm having a hard time starting off , there's still alot to learn about #django.
+
+Day 16.
+**Today's progress**: had to restart the project to make Custom User -which I just learn how to configure- and figured out how to work with widgets. I also learned that there are more than one way to work with forms in django. I feel tired now, tomorrow I'll work more on the forms in my project.
