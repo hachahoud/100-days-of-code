@@ -47,3 +47,6 @@ I started a little project today, it will be a booking web app. I'm having a har
 
 Day 16.
 **Today's progress**: had to restart the project to make Custom User -which I just learn how to configure- and figured out how to work with widgets. I also learned that there are more than one way to work with forms in django. I feel tired now, tomorrow I'll work more on the forms in my project.
+
+Day 17.
+**Today's progress**: I continued with the project today, building templates and forms. 
