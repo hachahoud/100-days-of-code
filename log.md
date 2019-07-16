@@ -50,3 +50,6 @@ Day 16.
 
 Day 17.
 **Today's progress**: I continued with the project today, building templates and forms. 
+
+Day 18.
+**Today's progress**: I worked on my web app project, made a structure for the database, and continued developping forms and the views fonctions.
