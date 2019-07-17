@@ -53,3 +53,6 @@ Day 17.
 
 Day 18.
 **Today's progress**: I worked on my web app project, made a structure for the database, and continued developping forms and the views fonctions.
+
+Day 19.
+**Today's progress**: took a day off yesterday, back at it today, I built the log in and out and register pages, and developed the views function.
