@@ -56,3 +56,6 @@ Day 18.
 
 Day 19.
 **Today's progress**: took a day off yesterday, back at it today, I built the log in and out and register pages, and developed the views function.
+
+Day 20.
+**Today's progress**: Still working on the server side of the booking web app. #Django is becoming really fun to work with, I really enjoyed programming today.
