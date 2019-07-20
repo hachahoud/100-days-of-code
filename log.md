@@ -59,3 +59,7 @@ Day 19.
 
 Day 20.
 **Today's progress**: Still working on the server side of the booking web app. #Django is becoming really fun to work with, I really enjoyed programming today.
+
+Day 21.
+**Today's progress**: I updated the forms' validators functions as to accept only the bookings two weeks beforehand and not more, I'll start working on the front-end tomorrow.
+
