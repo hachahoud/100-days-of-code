@@ -63,3 +63,6 @@ Day 20.
 Day 21.
 **Today's progress**: I updated the forms' validators functions as to accept only the bookings two weeks beforehand and not more, I'll start working on the front-end tomorrow.
 
+Day 22.
+**Today's progress**: the server side is finished for now in my booking app,  I tried to figure out how to use bootstrap4, I'll continue tomorrow with that.
+**Link to app**: github.com/hachahoud/booking-app
