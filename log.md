@@ -66,3 +66,6 @@ Day 21.
 Day 22.
 **Today's progress**: the server side is finished for now in my booking app,  I tried to figure out how to use bootstrap4, I'll continue tomorrow with that.
 **Link to app**: github.com/hachahoud/booking-app
+
+Day 23.
+**Tooday's progress**: I went through some documentations and videos to learn more about bootstrap in order to use it in my web app.
