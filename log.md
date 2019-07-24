@@ -69,3 +69,7 @@ Day 22.
 
 Day 23.
 **Tooday's progress**: I went through some documentations and videos to learn more about bootstrap in order to use it in my web app.
+
+Day 24.
+**Today's progress**: Today I modified the base template for my app using bootstrap4, now that I actually learned how to integrate it with django.
+
