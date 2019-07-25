@@ -73,3 +73,5 @@ Day 23.
 Day 24.
 **Today's progress**: Today I modified the base template for my app using bootstrap4, now that I actually learned how to integrate it with django.
 
+Day 25.
+**Today's progress**: Today I continued styling my web app using bootstrap, I made a static navbar and styled the page using also bootstrap's utilites to facilitate the task.
