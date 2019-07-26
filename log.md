@@ -75,3 +75,6 @@ Day 24.
 
 Day 25.
 **Today's progress**: Today I continued styling my web app using bootstrap, I made a static navbar and styled the page using also bootstrap's utilites to facilitate the task.
+
+Day 26.
+**Today's progress**: The styling for the web app is somehow done -for now. The app is wroking and looking fine. Tomorrow I'll see what can I add to its functionalities.
