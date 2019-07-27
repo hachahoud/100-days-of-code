@@ -78,3 +78,6 @@ Day 25.
 
 Day 26.
 **Today's progress**: The styling for the web app is somehow done -for now. The app is wroking and looking fine. Tomorrow I'll see what can I add to its functionalities.
+
+Day 27.
+**Today's progress**: I did some overall changes to the site appearance and that was all. It was not much work, but it is consistency that matters to me.
