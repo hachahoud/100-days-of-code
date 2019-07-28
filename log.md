@@ -81,3 +81,6 @@ Day 26.
 
 Day 27.
 **Today's progress**: I did some overall changes to the site appearance and that was all. It was not much work, but it is consistency that matters to me.
+
+Day 28.
+**Today's progress**: I modified the sign up info, now a user is asked a email, username and phone number. This was possible because I had set up a custom user before starting the project, so I could Custom my UserForm and alter the database tables.
