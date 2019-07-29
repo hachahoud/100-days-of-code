@@ -84,3 +84,6 @@ Day 27.
 
 Day 28.
 **Today's progress**: I modified the sign up info, now a user is asked a email, username and phone number. This was possible because I had set up a custom user before starting the project, so I could Custom my UserForm and alter the database tables.
+
+Day 29.
+**Today's progress**: I hadn't done much work today, except for modifying the home page so now it shows details for the booking.
