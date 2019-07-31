@@ -87,3 +87,10 @@ Day 28.
 
 Day 29.
 **Today's progress**: I hadn't done much work today, except for modifying the home page so now it shows details for the booking.
+
+day 30.
+**Today's progress**: The more you know the more you realize how much you don't know. It's true for python's Django nd it feels good to learn more.
+Today I added a model field to represent the number of hours for a booking, changed the views function and the html templates.
+
+day 31.
+**Today's progress**: Today I didn't add anything to the web app, all I did was some clash codes at codingame.com which is really fun, so I decided to do at least three clash codes a day from now on.
