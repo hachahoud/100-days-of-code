@@ -94,3 +94,7 @@ Today I added a model field to represent the number of hours for a booking, chan
 
 day 31.
 **Today's progress**: Today I didn't add anything to the web app, all I did was some clash codes at codingame.com which is really fun, so I decided to do at least three clash codes a day from now on.
+
+Day 32.
+**Today's progress**: I learned how to delete data from database, and that #Django don't call a model's proper delete function unless you iterate through the #queryset and run delete on each instance.
+
