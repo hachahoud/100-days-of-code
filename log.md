@@ -98,3 +98,6 @@ day 31.
 Day 32.
 **Today's progress**: I learned how to delete data from database, and that #Django don't call a model's proper delete function unless you iterate through the #queryset and run delete on each instance.
 
+Day 33.
+The app I'm working on is a booking app for a co-working space, it asks the user to book a number of hours each day. I added a possibility to have a certain max number for each hour, since there could be many users book at the same hour.
+
