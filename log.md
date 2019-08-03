@@ -101,3 +101,6 @@ Day 32.
 Day 33.
 The app I'm working on is a booking app for a co-working space, it asks the user to book a number of hours each day. I added a possibility to have a certain max number for each hour, since there could be many users book at the same hour.
 
+Day 34.
+Today I Learnt how to display notifications to users, it's not hard having django providing the messages framework. 
+And I displayed an alert when a user tries to book in date already booked by the max number.
