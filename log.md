@@ -104,3 +104,11 @@ The app I'm working on is a booking app for a co-working space, it asks the user
 Day 34.
 Today I Learnt how to display notifications to users, it's not hard having django providing the messages framework. 
 And I displayed an alert when a user tries to book in date already booked by the max number.
+
+Day 35.
+Haven't done so much work, except for the daily challenges at #codingame and reading through #Django documentation which proved to be helpful every time.
+
+Day 36.
+**Today's progress**: I 've been wanting to customize my admin page, django admin site does get alot of work out of the way, but I needed to make my own templates.
+I looked up for the best ways to achieve this, I decided to go with django #Django #Adminplus package.
+**Link to package**: https://github.com/jsocol/django-adminplus
