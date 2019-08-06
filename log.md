@@ -112,3 +112,7 @@ Day 36.
 **Today's progress**: I 've been wanting to customize my admin page, django admin site does get alot of work out of the way, but I needed to make my own templates.
 I looked up for the best ways to achieve this, I decided to go with django #Django #Adminplus package.
 **Link to package**: https://github.com/jsocol/django-adminplus
+
+Day 37.
+**Today's progress**: Today was kinda frustrating, as it turned up Adminplus didn't work out for me.
+I spent most of the time between stackoverflow and django's documentation trying to find out the best way to customize the #django admin site
