@@ -116,3 +116,7 @@ I looked up for the best ways to achieve this, I decided to go with django #Djan
 Day 37.
 **Today's progress**: Today was kinda frustrating, as it turned up Adminplus didn't work out for me.
 I spent most of the time between stackoverflow and django's documentation trying to find out the best way to customize the #django admin site
+
+Day 38.
+I'm still struggling  with developing the admin pages.
+I couldn't find out what would work for me, but in the end of the day I come across the book: Django admin cookbook, and I decided to read it in order to have a better idea of how django works.
