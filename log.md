@@ -120,3 +120,6 @@ I spent most of the time between stackoverflow and django's documentation trying
 Day 38.
 I'm still struggling  with developing the admin pages.
 I couldn't find out what would work for me, but in the end of the day I come across the book: Django admin cookbook, and I decided to read it in order to have a better idea of how django works.
+
+Day 39.
+Today I read through half the book: django admin cookbook (it's a only 50pages) I took my time and did as usual a lot of googling .
