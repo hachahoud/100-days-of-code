@@ -123,3 +123,12 @@ I couldn't find out what would work for me, but in the end of the day I come acr
 
 Day 39.
 Today I read through half the book: django admin cookbook (it's a only 50pages) I took my time and did as usual a lot of googling .
+
+Day 40.
+**Progress**: Finished reading django admin cookbook : how to do things with django admin, which covered the following:
+ - Text and design
+ - Calculated fields
+ - Permissions
+ - Multiple models and inlines 
+ - Listview page
+ - Changeview page
