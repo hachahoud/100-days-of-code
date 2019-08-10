@@ -132,3 +132,7 @@ Day 40.
  - Multiple models and inlines 
  - Listview page
  - Changeview page
+
+Day 41.
+**Today's progress**: Did some front-end changes and pushed the commit to the github repository.
+**Link** : https://github.com/hachahoud/booking-app
