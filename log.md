@@ -136,3 +136,7 @@ Day 40.
 Day 41.
 **Today's progress**: Did some front-end changes and pushed the commit to the github repository.
 **Link** : https://github.com/hachahoud/booking-app
+
+Day 42.
+Today I spent an hour or so at codingame.com
+I still don't know if I'll start building another web app to practice django more, or take a javascript course which I'd need to take sooner or later.
