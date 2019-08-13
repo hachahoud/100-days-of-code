@@ -144,3 +144,6 @@ I still don't know if I'll start building another web app to practice django mor
 Day 43.
 **Today's progress**: Today I picked up where I had stopped in the freecodecamp' s Responsive web design certificate and finished the Applied Visual Design chapter today 👌
 
+Day 44.
+Today I only did some clash codes at #codingame and that was it. Back at it tomorrow with the Visual Design challenges.
+
