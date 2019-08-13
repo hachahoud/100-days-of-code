@@ -142,5 +142,5 @@ Today I spent an hour or so at codingame.com
 I still don't know if I'll start building another web app to practice django more, or take a javascript course which I'd need to take sooner or later.
 
 Day 43.
-**Today's progress**: Today I picked up the freecodecamp' s Responsive web design certificate and finished the Applied Visual Design chapter today 👌
+**Today's progress**: Today I picked up where I had stopped in the freecodecamp' s Responsive web design certificate and finished the Applied Visual Design chapter today 👌
 
