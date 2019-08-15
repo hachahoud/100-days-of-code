@@ -147,3 +147,5 @@ Day 43.
 Day 44.
 Today I only did some clash codes at #codingame and that was it. Back at it tomorrow with the Visual Design challenges.
 
+Day 45.
+I started the Applied Accessibility chapter.  I did some challenges there at freecodecamp and the daily clash codes at codingame.
