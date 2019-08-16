@@ -149,3 +149,6 @@ Today I only did some clash codes at #codingame and that was it. Back at it tomo
 
 Day 45.
 I started the Applied Accessibility chapter.  I did some challenges there at freecodecamp and the daily clash codes at codingame.
+
+Day 46.
+**Today's progress**: I finished the Applied Accessibility chapter, I learned how to write logical html documents, and some new concepts like Semantic Meaning.
