@@ -152,3 +152,6 @@ I started the Applied Accessibility chapter.  I did some challenges there at fre
 
 Day 46.
 **Today's progress**: I finished the Applied Accessibility chapter, I learned how to write logical html documents, and some new concepts like Semantic Meaning.
+
+Day 47.
+I started another chapter in the freecodecamp Responsive web design certificate, it' s the responsive web principles.
