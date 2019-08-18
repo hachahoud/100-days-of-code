@@ -155,3 +155,6 @@ Day 46.
 
 Day 47.
 I started another chapter in the freecodecamp Responsive web design certificate, it' s the responsive web principles.
+
+Day 48.
+Getting on with the challenges at freecodecamp. Today I did the CSS Flexbox challenges , learning more about the responsive design 🤟
