@@ -158,3 +158,6 @@ I started another chapter in the freecodecamp Responsive web design certificate,
 
 Day 48.
 Getting on with the challenges at freecodecamp. Today I did the CSS Flexbox challenges , learning more about the responsive design 🤟
+
+Day 49.
+Finishing the introduction to CSS Grid challenges . Learning more how to build complex web designs.
