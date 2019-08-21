@@ -161,3 +161,6 @@ Getting on with the challenges at freecodecamp. Today I did the CSS Flexbox chal
 
 Day 49.
 Finishing the introduction to CSS Grid challenges . Learning more how to build complex web designs.
+
+**Day 50**.
+Done another chapter in the web design certificate at #freeCodeCamp which is really a good place to start learning about web design, it acquire you with everything you need to start learning more profoundly somewhere else (i.g: advanced course or books).
