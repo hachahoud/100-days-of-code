@@ -164,3 +164,6 @@ Finishing the introduction to CSS Grid challenges . Learning more how to build c
 
 **Day 50**.
 Done another chapter in the web design certificate at #freeCodeCamp which is really a good place to start learning about web design, it acquire you with everything you need to start learning more profoundly somewhere else (i.g: advanced course or books).
+
+**Day 51**
+After finishing the responsive web design challenges at #freecodecamp, today I started 1 of 4 little projects you need to build to practice all that you had learned through the course.
