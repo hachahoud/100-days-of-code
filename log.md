@@ -170,3 +170,7 @@ After finishing the responsive web design challenges at #freecodecamp, today I s
 
 **Day 52.**
 Continuing the web design projects,  and as always learning more than ever through these projects and through goggling all the way out.
+
+**Day 53.**
+Today I only did some coding clashes at  #codingame, using my favorite language #python.
+Tomorrow I'll be back to the web design challenges at #freecodecamp.
