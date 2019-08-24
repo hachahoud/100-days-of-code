@@ -167,3 +167,6 @@ Done another chapter in the web design certificate at #freeCodeCamp which is rea
 
 **Day 51**
 After finishing the responsive web design challenges at #freecodecamp, today I started 1 of 4 little projects you need to build to practice all that you had learned through the course.
+
+**Day 52.**
+Continuing the web design projects,  and as always learning more than ever through these projects and through goggling all the way out.
