@@ -174,3 +174,6 @@ Continuing the web design projects,  and as always learning more than ever throu
 **Day 53.**
 Today I only did some coding clashes at  #codingame, using my favorite language #python.
 Tomorrow I'll be back to the web design challenges at #freecodecamp.
+
+**Day 54**.
+I took my time, but today I finished a project in the responsive web designs projects at freecodecamp.
