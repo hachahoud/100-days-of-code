@@ -184,3 +184,7 @@ I hope I'll feel better tomorrow 😃
 
 **Day 56**.
 I got back to the mini projects for the responsive web design certificate at freecodecamp.
+
+**Day 57**.
+Today I did the Survey form challenge, practicing my #html and css skills.
+After all, theory is a thing, but building from scratch is the whole deal.
