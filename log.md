@@ -177,3 +177,10 @@ Tomorrow I'll be back to the web design challenges at #freecodecamp.
 
 **Day 54**.
 I took my time, but today I finished a project in the responsive web designs projects at freecodecamp.
+
+**Day 55**.
+I took today off, I've got fever so I couldn't really concentrate to code.
+I hope I'll feel better tomorrow 😃
+
+**Day 56**.
+I got back to the mini projects for the responsive web design certificate at freecodecamp.
