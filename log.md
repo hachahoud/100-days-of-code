@@ -191,3 +191,6 @@ After all, theory is a thing, but building from scratch is the whole deal.
 
 **Day 58**.
 I am still not feeling well, only did some code challenges with python at codingame.
+
+**DAY 59**.
+Building a Product Landing Page, trying to use the css flexboxes and basic html. 
