@@ -194,3 +194,7 @@ I am still not feeling well, only did some code challenges with python at coding
 
 **DAY 59**.
 Building a Product Landing Page, trying to use the css flexboxes and basic html. 
+
+**Day 60**.
+Today I built a technical documentation page using the css flexboxes, and basic html.
+One more challenge to complete the responsive web design course at freecodecamp.
