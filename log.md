@@ -198,3 +198,7 @@ Building a Product Landing Page, trying to use the css flexboxes and basic html.
 **Day 60**.
 Today I built a technical documentation page using the css flexboxes, and basic html.
 One more challenge to complete the responsive web design course at freecodecamp.
+
+**Day 61**.
+Today I finished The Responsive Web Design Certification.
+link: https://www.freecodecamp.org/certification/fcc9b361eb4-0fbe-44d6-9bcd-8859605c0432/responsive-web-design
