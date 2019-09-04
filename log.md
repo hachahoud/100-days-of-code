@@ -202,3 +202,9 @@ One more challenge to complete the responsive web design course at freecodecamp.
 **Day 61**.
 Today I finished The Responsive Web Design Certification.
 link: https://www.freecodecamp.org/certification/fcc9b361eb4-0fbe-44d6-9bcd-8859605c0432/responsive-web-design
+
+**Day 62**.
+DAY OFF.
+
+**Day 63**.
+I took yesterday off, and today I coded for a while and then installed VS Code (😅 yes I'm just starting using it), I went through the tutorial and tried to figure out how to get the most of it.
