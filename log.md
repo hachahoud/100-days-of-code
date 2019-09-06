@@ -208,3 +208,10 @@ DAY OFF.
 
 **Day 63**.
 I took yesterday off, and today I coded for a while and then installed VS Code (😅 yes I'm just starting using it), I went through the tutorial and tried to figure out how to get the most of it.
+
+**Day 64**.
+I worked on the Django tutorial in the Visual Studio docs.
+I'm trying to get the hang of vs code, and also practicing my django skills.
+
+**Day 65**.
+I didn't have time today but I still managed to do more of the VS Code Django tutorial, I learnt about debugging and discovered how smooth that is with vs 😀.
