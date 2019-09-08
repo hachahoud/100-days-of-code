@@ -215,3 +215,8 @@ I'm trying to get the hang of vs code, and also practicing my django skills.
 
 **Day 65**.
 I didn't have time today but I still managed to do more of the VS Code Django tutorial, I learnt about debugging and discovered how smooth that is with vs 😀.
+
+**Day 66-67.**
+
+I continued through the #vscode tutorial, learning more about debugging and about django static files management.
+Also did my daily clash codes at #codingame.
