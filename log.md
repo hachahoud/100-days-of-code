@@ -220,3 +220,7 @@ I didn't have time today but I still managed to do more of the VS Code Django tu
 
 I continued through the #vscode tutorial, learning more about debugging and about django static files management.
 Also did my daily clash codes at #codingame.
+
+**Day 68**.
+
+I learnt today how to use vs code snippets in the django template inheritance.
