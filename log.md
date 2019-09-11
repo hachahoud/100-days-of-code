@@ -222,5 +222,7 @@ I continued through the #vscode tutorial, learning more about debugging and abou
 Also did my daily clash codes at #codingame.
 
 **Day 68**.
-
 I learnt today how to use vs code snippets in the django template inheritance.
+
+**Day 69**.
+I worked with django data today. I learnt that sqlite3 is fine in the development work but not for production-level since it's suitable only for low traffic sites(<100khits/day). MySQL and PostgreSQL are some of the best options.
