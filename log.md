@@ -229,3 +229,6 @@ I worked with django data today. I learnt that sqlite3 is fine in the developmen
 
 **DAY 70**.
 I learnt how to use vs code debugger with page templates, and with that I finished the Django tutorial at vs code site.
+
+**DAY 72**.
+So I took yesterday off because I'm getting ready for university (I go to college in another city). But today I coded for a while answering the exercises in a python book-which I shared before, check it at: https://github.com/hachahoud/Python-Crash-Course
