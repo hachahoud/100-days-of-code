@@ -232,3 +232,6 @@ I learnt how to use vs code debugger with page templates, and with that I finish
 
 **DAY 72**.
 So I took yesterday off because I'm getting ready for university (I go to college in another city). But today I coded for a while answering the exercises in a python book-which I shared before, check it at: https://github.com/hachahoud/Python-Crash-Course
+
+**DAY 73.**
+I managed to code for an hour or so, did the exercises in the dictionaries chapter in the book: python crash course by Eric Matthes.
