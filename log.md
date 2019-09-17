@@ -235,3 +235,6 @@ So I took yesterday off because I'm getting ready for university (I go to colleg
 
 **DAY 73.**
 I managed to code for an hour or so, did the exercises in the dictionaries chapter in the book: python crash course by Eric Matthes.
+
+**DAY 74-75**.
+In these two days I started and finished the exercises in the dictionaries chapter. Didn't learn a lot of new things, but I'll try to code more and find something to work on in the following days.
