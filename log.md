@@ -238,3 +238,6 @@ I managed to code for an hour or so, did the exercises in the dictionaries chapt
 
 **DAY 74-75**.
 In these two days I started and finished the exercises in the dictionaries chapter. Didn't learn a lot of new things, but I'll try to code more and find something to work on in the following days.
+
+**Day 76.**
+Today I only did some code challenges at codingame. I'll be heading to Marrakesh tomorrow morning, school starts soon.
