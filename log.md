@@ -241,3 +241,25 @@ In these two days I started and finished the exercises in the dictionaries chapt
 
 **Day 76.**
 Today I only did some code challenges at codingame. I'll be heading to Marrakesh tomorrow morning, school starts soon.
+
+**Day 78.**
+I'm still doing the python crash course exercises, I'm pushing them to github so any python newbie could hopefully find some answers.
+
+**Day 79.**
+Today I answered the exercises in the functions chapter.
+
+**Day 80.**
+I'm still coding the exercitin the boon, trying to speed up so i can move to something else.
+
+**Day 81.**
+School has started, I'm trying to best manage my time and code everyday. I'm doing the challenges in the crash course, I am still in part 1 of the book, but I can't say I'm not learning something new every day 🙇😁
+
+**DAY 83.**
+Starting college it became hard to code everyday, I'm working more to manage my time 🙌
+Today I did some challenges in the classes chapter.
+
+**Day 84-85.**
+I was off Twitter but I did my coding, I learnt about OOP, inheritance and factoring code for the best readability. Also learned about some of the classes in the Python Standard Library, such as OrderedDict which is a dict subclass but maintains order.
+
+**Day 86.**
+Today I was through the 10chapter of the book, learning about files and exceptions with #Python and doing the challenges.
