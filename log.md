@@ -263,3 +263,33 @@ I was off Twitter but I did my coding, I learnt about OOP, inheritance and facto
 
 **Day 86.**
 Today I was through the 10chapter of the book, learning about files and exceptions with #Python and doing the challenges.
+
+**Day 87.**
+I learnt today to work with json to save data as I worked on more of files exercises from the book Python Crash Course.
+
+**Day 89-90.**
+For the first time I learned how to write tests for my functions and classes, with the Python module unittest. Writing tests is an indispensable task, especially when working on projects with other programmers.
+
+**Day 91.**
+I tried to write tests for some of my code. 
+
+**Day 93.**
+I'm not working on anything, just tried to practice my Django skills a bit on a little tutorial about managing static files.
+
+**Day 94-95.**
+I worked on some css and html in my django apps, trying to practice more what I have learned about web design.
+
+**Day 97-98**
+I didn't really have anything to do, and now that i started college i don't have much time. So i did some hackerrank python challenges each day.
+
+**Day 99.**
+I did some html and css coding today, working on a simple django web app.
+
+**DAY 100/100.**
+In 100 days of daily coding I've learnt :
+
+-#django, & started building web apps from scratch.
+-Basics of responsive web design and wrote my first css&html code.
+-Using #git, #VsCode...
+-Developed my #python skills.
+-Acquired a habit of daily coding.
